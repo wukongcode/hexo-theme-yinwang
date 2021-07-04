@@ -5,8 +5,8 @@ language: en
 # 导航栏
 menu:
   博客: /
-  语雀: https://www.yuque.com/smallyu
-  关于: /about
+  # 语雀: https://www.yuque.com/smallyu
+  # 关于: /about
 
 # 图标
 favicon: /favicon.ico
@@ -24,7 +24,7 @@ list:
 
 # 脚部
 footer:
-  display: false               # 是否显示footer
+  display: true               # 是否显示footer
   context: "© smallyu.net"     # footer内容
 
 # 文章页
