@@ -24,7 +24,7 @@ list:
 
 # 脚部
 footer:
-  display: true               # 是否显示footer
+  display: false               # 是否显示footer
   context: "© smallyu.net"     # footer内容
 
 # 文章页
