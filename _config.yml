@@ -24,8 +24,8 @@ list:
 
 # 脚部
 footer:
-  display: false               # 是否显示footer
-  context: "© smallyu.net"     # footer内容
+  display: true               # 是否显示footer
+  context: "京ICP备2021019621号-1"     # footer内容
 
 # 文章页
 post:
